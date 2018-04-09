@@ -4,9 +4,13 @@ Simple React contact app in memory only. There are two hardcoded contacts for ex
 
 ## Installation
 
-Run <code> git clone https://github.com/JamesSakurai/React-Contact-App-MemoryOnly.git [name-of-project]
+Run
 
-Run <code> npm install </code>
+<code> git clone https://github.com/JamesSakurai/React-Contact-App-MemoryOnly.git [name-of-project]
+
+Run
+
+<code> npm install </code>
 
 ## Usage
 
